@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-eu",
+  "description": "The most comprehensive collection of stopwords for the basque language.",
+  "keywords": [
+    "basque",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-eu",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-eu.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
